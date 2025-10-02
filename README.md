@@ -67,3 +67,8 @@ This will spin up both Qdrant and PostgreSQL services.
      ⚠️ Make sure to **uncomment the `vanna train` cell** before running.
 
 ---
+
+## 4. Index the Data
+
+1. Open **3_indexing.ipynb** notebook.
+2. Advance to the latest cell to run the Text to SQL system.
